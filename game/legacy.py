@@ -6,13 +6,22 @@
 """
 from __future__ import annotations
 
+import sys
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Iterable
 
 from .config import TILE
 
-LEGACY_DIR = Path(__file__).resolve().parent.parent / "legacy"
+
+def _resource_root() -> Path:
+    """Корень ресурсов: обычный запуск или распакованный PyInstaller exe."""
+    if getattr(sys, "frozen", False):
+        return Path(getattr(sys, "_MEIPASS", Path(sys.executable).resolve().parent))
+    return Path(__file__).resolve().parent.parent
+
+
+LEGACY_DIR = _resource_root() / "legacy"
 SCREENS_DIR = LEGACY_DIR / "screens"
 HEROES_DIR = LEGACY_DIR / "heroes"
 

@@ -1,9 +1,19 @@
 # MINE-LINE QUEST — 2D pixel remake
 
+<img src="icon.png" width="128" alt="Иконка игры">
+
 Пиксельный ремейк текстового квеста **MINE-LINE**. Сюжет, герои, диалоги,
 магазин и все экраны 0–12 взяты из оригинальной игры.
 
-## Запуск
+## Готовая сборка (Windows)
+
+Готовый `MineLineQuest-2D.exe` лежит в разделе **Releases** репозитория.
+Это один файл, Python и pygame внутри устанавливать не нужно.
+
+Если Windows SmartScreen предупреждает о неизвестном издателе, нажмите
+«Подробнее» → «Выполнить в любом случае»: файл собран локально без подписи.
+
+## Запуск из исходников
 
 ```powershell
 cd "D:\vit\New game"
@@ -12,6 +22,17 @@ python main.py
 ```
 
 Нужен Python 3.10+ и pygame 2.6.
+
+## Сборка exe
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\build_exe.ps1
+```
+
+Результат: `dist\MineLineQuest-2D.exe` (~27 МБ, один файл).
+Иконка генерируется скриптом `tools\make_icon.py`.
+Быстрая проверка собранной игры: `MineLineQuest-2D.exe --smoke-test`
+(запускается без окна и возвращает код 0).
 
 ## Управление
 
