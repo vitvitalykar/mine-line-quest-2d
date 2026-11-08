@@ -26,6 +26,7 @@ python main.py
 ## Сборка exe
 
 ```powershell
+pip install -r requirements.txt pyinstaller
 powershell -ExecutionPolicy Bypass -File .\build_exe.ps1
 ```
 
