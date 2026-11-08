@@ -1,0 +1,14 @@
+MMMMMMMM               MMMMMMMM  iiii  NNNNNNNN        NNNNNNNNEEEEEEEEEEEEEEEEEEEEEE                 LLLLLLLLLLL               iiii  NNNNNNNN        NNNNNNNNEEEEEEEEEEEEEEEEEEEEEE
+M:::::::M             M:::::::M i::::i N:::::::N       N::::::NE::::::::::::::::::::E                 L:::::::::L              i::::i N:::::::N       N::::::NE::::::::::::::::::::E
+M::::::::M           M::::::::M  iiii  N::::::::N      N::::::NE::::::::::::::::::::E                 L:::::::::L               iiii  N::::::::N      N::::::NE::::::::::::::::::::E
+M:::::::::M         M:::::::::M        N:::::::::N     N::::::NEE::::::EEEEEEEEE::::E                 LL:::::::LL                     N:::::::::N     N::::::NEE::::::EEEEEEEEE::::E
+M::::::::::M       M::::::::::Miiiiiii N::::::::::N    N::::::N  E:::::E       EEEEEE                   L:::::L               iiiiiii N::::::::::N    N::::::N  E:::::E       EEEEEE
+M:::::::::::M     M:::::::::::Mi:::::i N:::::::::::N   N::::::N  E:::::E                                L:::::L               i:::::i N:::::::::::N   N::::::N  E:::::E             
+M:::::::M::::M   M::::M:::::::M i::::i N:::::::N::::N  N::::::N  E::::::EEEEEEEEEE    ---------------   L:::::L                i::::i N:::::::N::::N  N::::::N  E::::::EEEEEEEEEE   
+M::::::M  M::::M::::M  M::::::M i::::i N::::::N  N::::N:::::::N  E:::::::::::::::E    -:::::::::::::-   L:::::L                i::::i N::::::N  N::::N:::::::N  E:::::::::::::::E   
+M::::::M    M:::::M    M::::::M i::::i N::::::N    N::::::::::N  E:::::E              ---------------   L:::::L                i::::i N::::::N    N::::::::::N  E:::::E             
+M::::::M     MMMMM     M::::::M i::::i N::::::N     N:::::::::N  E:::::E       EEEEEE                   L:::::L         LLLLLL i::::i N::::::N     N:::::::::N  E:::::E       EEEEEE
+M::::::M               M::::::Mi::::::iN::::::N      N::::::::NEE::::::EEEEEEEE:::::E                 LL:::::::LLLLLLLLL:::::Li::::::iN::::::N      N::::::::NEE::::::EEEEEEEE:::::E
+M::::::M               M::::::Mi::::::iN::::::N       N:::::::NE::::::::::::::::::::E                 L::::::::::::::::::::::Li::::::iN::::::N       N:::::::NE::::::::::::::::::::E
+M::::::M               M::::::Mi::::::iN::::::N        N::::::NE::::::::::::::::::::E                 L::::::::::::::::::::::Li::::::iN::::::N        N::::::NE::::::::::::::::::::E
+MMMMMMMM               MMMMMMMMiiiiiiiiNNNNNNNN         NNNNNNNEEEEEEEEEEEEEEEEEEEEEE                 LLLLLLLLLLLLLLLLLLLLLLLLiiiiiiiiNNNNNNNN         NNNNNNNEEEEEEEEEEEEEEEEEEEEEE
